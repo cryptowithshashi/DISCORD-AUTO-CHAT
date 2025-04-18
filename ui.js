@@ -11,7 +11,7 @@ class TUI {
         // Create a screen object.
         this.screen = blessed.screen({
             smartCSR: true,
-            title: 'SEAL BOT TUI Monitor',
+            title: 'DISCORD AUTO CHAT BY CWS',
             fullUnicode: true,
             dockBorders: true,
             autoPadding: true
